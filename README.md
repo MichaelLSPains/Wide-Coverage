@@ -1,7 +1,7 @@
 <h1>Wide Coverage</h1>
 <br>
 <br>
-<h2>Projeto Responsividade que aprendi nas aulas do <a href="https://aulas.devclub.com.br/m/courses?showcase=3">DevClub</a></h2>
+<h2>Projeto Responsividade que aprendi nas aulas do <a href="https://aulas.devclub.com.br">DevClub</a></h2>
 <br>
 <p>nesse projeto foi utilizadas as tecnologias:</p>
 <br>
